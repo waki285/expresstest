@@ -1,0 +1,12 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "a web page",
+  "main": "index.js",
+  "repository": "https://github.com/waki285/expresstest",
+  "author": "waki285 <<>>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
